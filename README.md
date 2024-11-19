@@ -30,7 +30,7 @@ lender when the borrower refuses to pay or runs away with the money owed.
 - **Default Rate** : There is a total of 14% of default Rate.
 - **Grade** : Most of the default accounts are from B,C and D.
 - **Sub Grade** : Applicants from the sub grade B3,B4,B5 tend to be more as defaulters.
-- **Term** : The longer the Term, the more default rate. 
+- **Term** : The longer the Term, the more default rate in terms of loan amount. 
 - **Employee Length** : Applicants who are having an eperience above 10 years are contributing more to charged off percent. 
 - **Open Accounts** : Open accounts less than 5 and more than 10 show lower default tendency.
 - **Home ownership** : Loan applicants with rented house with rented house are contributing more to defaulters.
@@ -43,11 +43,11 @@ lender when the borrower refuses to pay or runs away with the money owed.
 - **Loan processing volume**: Most of the loans issued in second half of the year. December month is highest month.
 
 ## Technologies Used
-- Python - version 3.11.4
-- Matplotlib - version 3.7.1
-- Numpy - version 1.24.3
-- Pandas - version 1.5.3
-- Seaborn - version 0.12.2
+- Python - version 3.12.4
+- Matplotlib - version 3.8.4
+- Numpy - version 1.26.4
+- Pandas - version 2.2.2
+- Seaborn - version 0.13.2
 
 ## Acknowledgements
 Give credit here.
@@ -55,9 +55,5 @@ Give credit here.
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
-
 ## Contact
-Created by [@GobburiAishwarya] and - feel free to contact me!
-
-
-
+Created by [@AishwaryaGobburi](https://github.com/GobburiAishwarya) and [@GirishKolhe](https://github.com/GirishKolhe) - feel free to contact us!
